@@ -24,4 +24,4 @@ Task that show you can make multi colors from color.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-(src/Assets/swiper.png)
+![screenshot](src/color.png)
